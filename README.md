@@ -1,7 +1,9 @@
 
-# The Quizzler App
+# The GUI Quiz App
 
-Its a quiz application that has a GUI which we can interact with data that's completely generated from random and fetched from the open trivia database.
+Its a quiz application that has a GUI which we can interact with.
+
+The data is fetched from the open trivia database.
 
 You can modify the 'parameters' in data.py file to change up this quiz to our liking :)
 
@@ -11,7 +13,7 @@ API link : https://opentdb.com/api_config.php
 
 - Download the code as ZIP.
 - Open the extracted ZIP folder in your IDE.
-- Run main.py file to start the timer.
+- Run main.py file to start the Quizzler.
   
 ## Screenshot
 
