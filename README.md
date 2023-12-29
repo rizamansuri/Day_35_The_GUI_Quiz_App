@@ -1,5 +1,5 @@
 
-# The GUI Quiz App
+# The GUI Quiz App 📚
 
 Its a quiz application that has a GUI which we can interact with.
 
